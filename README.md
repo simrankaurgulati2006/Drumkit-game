@@ -19,9 +19,9 @@ Click on the drum pads to trigger the corresponding drum sounds.
 Project Structure:
 
 drum-kit-project/
-├── index.html
-├── style.css
-├── script.js
+->index.html
+->style.css
+-> script.js
 Technologies Used:
 
 HTML: Structure of the web page.
