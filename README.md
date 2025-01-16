@@ -1,5 +1,5 @@
 Drum Kit Project
-Author- Simran
+
 
 This is a simple drum kit project built using HTML, CSS, and JavaScript. It allows users to play drum sounds by clicking on drum pads on the screen.
 
